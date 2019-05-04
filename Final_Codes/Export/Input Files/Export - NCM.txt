@@ -1,0 +1,7 @@
+NCM Code for:
+
+Soybean: from 12010010 to 12019000
+
+Corn: from 10051000 to 10059010
+
+Meal: from 23040010 to 23040090
